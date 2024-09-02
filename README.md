@@ -1,3 +1,4 @@
+![logo](https://github.com/BilalIqbal01/BilalIqbal01/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png)
 <h1 align="center">Hi 👋, I'm Bilal Iqbal Awan</h1>
 <h3 align="center">I am studing Python and Generetaive AI from PIAIC Islamabad</h3>
 
